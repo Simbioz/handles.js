@@ -1,7 +1,7 @@
 {
   "name": "handles.js",
   "version": "1.0.1",
-  "description": "Releaseable handles!",
+  "description": "Releaseable handles! Wrap an action to perform later.",
   "homepage": "https://github.com/Simbioz/handles.js",
   "author": {
     "name": "Simbioz Dev",

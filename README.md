@@ -1,6 +1,6 @@
 # handles.js
 
-Releaseable handles!
+Releaseable handles! Wrap an action to perform later.
 
 # Installation
 
