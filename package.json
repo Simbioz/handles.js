@@ -1,0 +1,39 @@
+{
+  "name": "handles.js",
+  "version": "4.0.1",
+  "description": "Releaseable handles!",
+  "homepage": "https://github.com/Simbioz/handles.js",
+  "author": {
+    "name": "Simbioz Dev",
+    "email": "dev@simbioz.com"
+  },
+  "contributors": [
+    {
+      "name": "Michaël Fortin",
+      "email": "michael@simbioz.com"
+    }
+  ],
+  "main": "dist/handles.js",
+  "files": [
+    "dist/*",
+    "*.md"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^3.19.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0",
+    "webpack": "^2.4.1",
+    "webpack-stream": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simbioz/handles.js.git"
+  },
+  "license": "MIT"
+}
